@@ -1,0 +1,30 @@
+{
+  "name": "tchaikovsky-back-end",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "koa": "^2.13.3",
+    "koa-body": "^4.2.0",
+    "koa-multer": "^1.0.2",
+    "koa-multipart": "0.0.1",
+    "koa-range": "^0.3.0",
+    "koa-send": "^5.0.1",
+    "koa-session": "^6.2.0",
+    "koa-static": "^5.0.0",
+    "moment": "^2.29.1",
+    "mysql": "^2.18.1",
+    "ws": "^3.3.2"
+  },
+  "devDependencies": {
+    "koa-bodyparser": "^4.3.0",
+    "koa-router": "^10.1.1",
+    "koa-static-cache": "^5.1.4"
+  }
+}
